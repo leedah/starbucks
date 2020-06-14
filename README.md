@@ -119,7 +119,7 @@ For all the BOGO and the discount offers, the most important features that affec
 
 ### Publications
 
-For a review of this analysis, you can [read my story on Medium](https://medium.com/@leedah/this-is-what-a-data-scientist-looks-like-aefa5c658d54?sk=c1ba5824f42da17e20609892ebfc6301).
+For a review of this analysis, you can [read my story on Medium](https://medium.com/@leedah/starbucks-capstone-challenge-c5a3d61628b4?sk=3d79622853dbaf3f318ab12b2fadcb96).
 
 ## Future improvements
 In future iterations, I would like to try more classifiers in order to achieve better scores. The results are promising but 
